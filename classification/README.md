@@ -10,7 +10,7 @@ Classification problems of increasing complexity, built from scratch in PyTorch.
 | 08 | Overlapping Gaussian clusters | Binary | Irreducible error, precision, recall, chaotic decision boundary |
 | 09 | Multi-class Gaussian clusters | Multi-class | CrossEntropyLoss, softmax, argmax |
 | 10 | Signal vs Noise | Binary | Temporal correlation, Nyquist, early stopping |
-| 11 | Concentric rings *(upcoming)* | Binary | Nonlinear decision boundaries |
+| 11 | Concentric rings | Binary | Nonlinear decision boundaries |
 
 ---
 
